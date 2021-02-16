@@ -20,3 +20,7 @@ My applications for the Android and iOS platforms
 * Google Play
 
 [![Foo](images/play_dark.png)](https://play.google.com/store/apps/details?id=com.github.mrdimosthenis.quantumpuzzlegenerator)
+
+* Apple App Store
+
+[![Foo](images/info_dark.png)](https://apps.apple.com/us/app/quantum-puzzle-generator/id1551795039)
